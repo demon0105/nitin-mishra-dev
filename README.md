@@ -26,3 +26,36 @@ Databases:   MySQL (Basics)
 Tools:       Git, GitHub, VS Code, Canva, Figma, Linux
 Upcoming:    React.js, Flask, Firebase, Tailwind CSS
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=demon0105&show_icons=true&theme=radical&hide_title=false&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demon0105&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon0105&layout=compact&theme=radical&langs_count=8" width="50%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=demon0105&theme=radical&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest" />
+</p>
+
+---
+
+### 🟩 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=demon0105&theme=radical&hide_border=true" />
+</p>
+
